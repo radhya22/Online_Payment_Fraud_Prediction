@@ -1,2 +1,1 @@
 # Online_Payment_Fraud_Prediction
-Detect and prevent online payment fraud using advanced machine learning techniques. This Python project implements predictive models to analyze transaction data and identify potential fraud patterns, enabling businesses to safeguard their payment systems. Explore data preprocessing, feature engineering, and model selection while contributing to enhanced cybersecurity in the digital commerce landscape.
